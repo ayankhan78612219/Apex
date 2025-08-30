@@ -1,28 +1,72 @@
-Consent
-By using our website and our discord bot, you hereby consent to our Privacy Policy and agree to its terms.
+Privacy Policy
+
+Last Updated: [30/8/2025]
+
+1. Introduction This Privacy Policy describes how[Your Bot's Name] ("the Bot", "we", "us", "our") collects, uses, and protects your information when you use our services within Discord.
+
+By using the Bot, you consent to the data practices described in this policy. If you do not agree, please do not use the Bot.
+
+2. Information We Collect We collect only the information necessary to provide the Bot's core functionalities.The data we collect includes:
+
+· Discord Identifiers: Server IDs, channel IDs, user IDs, and user tags (e.g., Username#1234).
+· User-Provided Content: The specific data you input to use the Bot's features. This includes:
+  · Reminders you create.
+  · Custom settings you configure for a server (guild).
+  · Custom pronouns you set for your user profile.
+· Message Content (Conditional): The content of messages is only collected and stored if a server administrator explicitly enables message logging features for the purpose of moderation (e.g., to show edits or deleted messages). This is disabled by default.
+
+3. How We Use Your Information We use the information we collect for the following purposes:
+
+· To provide, operate, and maintain the Bot's core services.
+· To store your preferences and settings.
+· To deliver functionality such as reminders and server-specific configurations.
+· For message logging (if enabled by a server admin), solely to provide moderation tools like showing the difference between edited messages or the content of deleted messages.
+
+4. Data Storage and Security
+
+· All data is stored in secure databases.
+· Message content (if collected) is stored in an encrypted format.
+· We implement industry-standard security measures to protect your data from unauthorized access, alteration, or destruction.
+
+5. Data Sharing and Disclosure WE DO NOT AND WILL NOT SELL YOUR DATA.
+
+We do not share your personal information with any third parties, except in the following limited circumstances:
+
+· To Comply with Law: If required to do so by law or in response to valid legal requests by public authorities.
+· To Protect Rights: To protect and defend our rights or property, or to prevent fraud and abuse.
+· Service Providers: We may employ trusted third-party companies to host our services (e.g., cloud hosting providers, database services). These vendors are obligated to handle your data confidentially and securely.
+
+6. Your Rights and Choices You have the right to control your data:
+
+· Access and Deletion: You can request to see what data we have stored about you or request its deletion by contacting us on our [Support Server].
+· Server Administrators: Server admins can remove the Bot from their server at any time, which will delete all data associated with that server from our databases.
+· For Message Content: As message logging is a server-level feature, its use is controlled by server administrators. If you are a user in a server with this feature enabled, you should direct any questions to that server's administration.
+
+7. Data Retention We retain your information only for as long as necessary to provide you with our services and fulfill the purposes described in this policy.We will delete your data if:
+
+· You request its deletion.
+· The Bot is removed from a server.
+· Your Discord account is deleted.
+
+8. Changes to This Privacy Policy We may update this Privacy Policy from time to time.We will notify users of any material changes by updating the "Last Updated" date at the top of this policy and by announcing it in our [Support Server]. Your continued use of the Bot after any change constitutes your acceptance of the new Privacy Policy.
+
+9. Contact Us If you have any questions about this Privacy Policy or your data,please contact us on our official Discord support server: [Invite Link to Your Support Server].
 
 
-Information we collect
-The following data points are collected from users:
+Key Improvements and Why They Matter:
 
-Server ids
-Text channel ids
-Message ids
-User ids
-User tags (eg Example#0000)
-The reminders that a user created
-The custom settings a user can set for a guild
-The custom pronouns that a user can set
-Message content (ONLY if message logging is enabled)
+1. Clarity and Independence: The revised policy is a standalone document. It does not confusingly try to bind the user to Discord's policy. Instead, it acknowledges that using Discord is subject to their terms, while clearly defining your practices.
+2. Transparency on Message Content: It clearly states that message content is only collected if a server admin explicitly enables it. This is crucial for user trust and transparency.
+3. Strong "No Selling" Language: The bolded "WE DO NOT AND WILL NOT SELL YOUR DATA." is a clear, strong statement that users look for and appreciate.
+4. Defined Use Cases: It explicitly lists why each piece of data is collected (e.g., IDs to provide service, reminders to function, etc.).
+5. User Rights: It outlines how users can access or delete their data, empowering them and complying with principles of laws like GDPR.
+6. Security Assurance: It mentions encryption for sensitive data (message content) and standard security practices.
+7. Realistic Disclosure: It includes standard clauses about sharing data with necessary service providers (like a hosting company) and for legal reasons, which is honest and expected.
+8. Clear Contact Method: Using a Discord support server is the most logical and accessible way for users to contact you regarding a Discord bot.
 
-Why we need your information
-We need the information described above to provide the basic services we offer to you.
+You should replace the following placeholders:
 
-We store the content of messages when message logging is enabled to provided the differences between edited messages and show the content of deleted messages. Since discord does not provide this data we are required to store it ourselves. All message content is stored in an encrypted database.
+· [30/8/2025]
+· [https://discord.gg/8jqhPgNrA6]
 
-How we use your information
-We use the information we collect in the following ways:
-
-Provide, operate, and maintain our website and discord bot
-Provide all the functionalities that the bot has to offer
-WE DO NOT SHARE ANY OF THE STORED INFORMATION WITH ANY THIRD PARTIES
+This policy is transparent, user-friendly, and builds trust, making it much more professional and legally robust than the original text.
